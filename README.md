@@ -1,28 +1,6 @@
 1. 
 FILE PATHS
-├── CMF419 Dataset/
-│   ├── Anger/
-│   ├── Neutral/
-│   └── openface_output/
-├── static/
-│   ├── styles/
-│   └── S1U.jpg
-├── templates/
-│   ├── index.html
-│   └── result.html
-├── uploads/
-│   ├── Anger1.mp4
-│   ├── Anger1.5.mp4
-│   ├── Anger1m.mp4
-│   ├── Neutral1.mp4
-│   ├── Neutral1.4.mp4
-│   └── Neutral1m.mp4
-├── app.py
-├── baseline_model.ipynb
-├── cnn_lstm_anger_classifier.h5
-├── cnn_lstm_model.ipynb
-├── readme
-└── requirements.txt
+<pre> ``` FILE PATHS ├── CMPT419 Dataset/ │ ├── Anger/ │ ├── Neutral/ │ └── openface_output/ ├── static/ │ └── styles/ │ └── SFU.jpg ├── templates/ │ ├── index.html │ └── result.html ├── uploads/ │ ├── Anger1.mp4 │ ├── Anger1.5.mp4 │ ├── Anger1m.mp4 │ ├── Neutral1.mp4 │ ├── Neutral1.4.mp4 │ └── Neutral1m.mp4 ├── app.py ├── baseline_model.ipynb ├── cnn_lstm_anger_classifier.h5 ├── cnn_lstm_model.ipynb ├── readme └── requirements.txt ``` </pre>
 
 EXPLANATION OF FILES: 
 
