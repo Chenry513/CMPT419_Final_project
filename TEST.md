@@ -1,49 +1,37 @@
 ---
-title: "VisionX Pro"
-imageSrc: "/models/visionx.png"
-holoType: "nebula"
-textColor: "text-purple-500"
-category: "computer-vision"
-tagText: "Image Analysis"
-tagColor: "text-indigo-400"
-description: "Advanced computer vision model for real-time object detection and scene understanding"
-links: "Product Page:https://example.com/visionx, API Docs:https://docs.example.com/visionx"
+title: "Gemini Pro"
+imageSrc: "/models/gemini.png"
+holoType: "cosmos"
+textColor: "text-white"
+category: "models"
+tagText: "Multimodal"
+tagColor: "text-blue-400"
+description: "Google's advanced multimodal AI model with strong reasoning capabilities"
+links: "Google Gemini:https://gemini.google.com/,Developer Documentation:https://ai.google.dev/docs"
 
-# Original ModelInfo fields
-name: "VisionX Pro"
-organization: "AI Vision Corp"
+name: "Gemini Pro"
+organization: "Google DeepMind"
 use_cases: |
-  - Real-time object detection
-  - Autonomous vehicle navigation
-  - Retail inventory management
-  - Security surveillance
+  - Multimodal content analysis
+  - Code generation
+  - Research assistance
+  - Educational applications
 practices: |
-  - Uses anonymized image data
-  - Regular bias audits
-  - On-device processing option
-data_info: "Trained on 50M+ diverse images with careful bias mitigation"
-concerning_practices: "Potential for misuse in surveillance applications"
-concerning_practices_urls: "https://ethics.ai/vision-risks, https://privacy.org/visionx-concerns"
+  - Regular safety audits
+  - Multilingual support
+  - Developer-friendly APIs
+data_info: "Trained on diverse multimodal datasets with careful filtering"
+concerning_practices: "Potential for misuse in generating misleading content"
+concerning_practices_urls: "https://ai.google/responsibility,https://deepmind.google/about/privacy"
 severity: "medium"
 ---
 
-## Overview
-VisionX Pro represents the next generation of computer vision models, offering unparalleled accuracy in real-time object detection and scene understanding across diverse environments.
+## Technical Specifications
+- **Modalities**: Text, images, audio, video
+- **Languages**: 100+ supported
+- **API Availability**: Through Google Cloud AI
 
 ## Key Features
-- **Real-time processing**: <5ms latency on modern hardware
-- **Multi-object detection**: Identifies 5000+ object categories
-- **Scene understanding**: Contextual interpretation of visual scenes
-- **Edge-optimized**: Runs efficiently on mobile and embedded devices
-
-## Technical Specifications
-- Architecture: Hybrid CNN-Transformer
-- Training Data: 50M+ curated images
-- Outputs: Bounding boxes, segmentation masks, depth estimation
-- Supported Platforms: iOS, Android, Linux, Windows
-
-## Ethical Considerations
-VisionX Pro incorporates:
-- Built-in privacy filters
-- Optional blurring of sensitive objects
-- Configurable ethical guardrails
+- Advanced reasoning capabilities
+- Strong multilingual performance
+- Flexible deployment options
